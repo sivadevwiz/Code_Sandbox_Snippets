@@ -12,6 +12,8 @@ const posts = {
 }
 
 
+
+
 // for(let post in posts) {
 //   console.log(post);  // id, name - properties
 // }
